@@ -1,0 +1,9 @@
+name: Terax
+description: "Official TERAX Token on the TON network."
+image: "https://kept.com.ua/image/1Ais/TRX_logo.jpg"
+address: "0:08627311695ae1ab04f7eb04ed233c523f18265ab5ab6a5bf6159a8e350dc488"
+symbol: TRX
+max_supply: 5000000
+social:
+  - "https://t.me/Terax_trx"
+  - "https://t.me/terax_chat"
